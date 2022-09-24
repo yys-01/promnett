@@ -53,3 +53,29 @@ nav ul li a{
     width: 29%;
     margin: auto;
 }
+
+.kanan h3{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.content2 ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.content2 ul li a {
+    margin-left: -80px;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #1a224b;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    width: 88%;
+    margin: auto;
+    position: relative;
+    padding-left: 2%;
+}
